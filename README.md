@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blockgrafik
 - 👀 I’m interested in playing video games
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on something
+- 💞️ I’m looking to collaborate on some things
 - 📫 How to reach me: /
 
 <!---
